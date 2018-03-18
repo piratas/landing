@@ -1,0 +1,6 @@
+.*
+!.gitignore
+*~
+mariadb/
+*.sql
+*.env
